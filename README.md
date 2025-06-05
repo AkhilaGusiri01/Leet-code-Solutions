@@ -8,7 +8,7 @@ This repository contains my Java solutions to problems from LeetCode. I'm curren
 - Strings
 - Hashing
 - Sorting
-- 
+  
 ## My LeetCode Profile
 https://leetcode.com/u/Akhila-gusiri_20
 
